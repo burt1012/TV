@@ -51,6 +51,18 @@ http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 #EXTINF: group-title="4K频道",CCTV16-4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+#EXTINF:group-title="地方",北京新闻
+http://iptv.cooltv.top/tv/btime.php?id=btvxw
+#EXTINF:group-title="地方",北京影视
+http://iptv.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:group-title="地方",北京文艺
+http://iptv.cooltv.top/tv/btime.php?id=btvwy
+#EXTINF:group-title="地方",北京财经
+http://iptv.cooltv.top/tv/btime.php?id=btvcj
+#EXTINF:group-title="地方",北京生活
+http://iptv.cooltv.top/tv/btime.php?id=btvsh
+#EXTINF:group-title="地方",北京体育休闲
+http://iptv.cooltv.top/tv/btime.php?id=bjjs
 #EXTINF: group-title="卫视",东南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
 #EXTINF: group-title="卫视",东方卫视高清

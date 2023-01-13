@@ -51,14 +51,26 @@ http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
+http://iptv.cooltv.top/tv/btime.php?id=btvxw
+#EXTINF:-1 tvg-id="1875" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
+http://iptv.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:-1 tvg-id="1873" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="地方",北京文艺
+http://iptv.cooltv.top/tv/btime.php?id=btvwy
+#EXTINF:-1 tvg-id="1876" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
+http://iptv.cooltv.top/tv/btime.php?id=btvcj
+#EXTINF:-1 tvg-id="1878" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
+http://iptv.cooltv.top/tv/btime.php?id=btvsh
+#EXTINF:-1 tvg-id="1872" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京体育休闲
+http://iptv.cooltv.top/tv/btime.php?id=bjjs
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
